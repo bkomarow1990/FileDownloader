@@ -1,0 +1,15 @@
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\bin\Debug\Multi_File_Copy.exe.config
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\bin\Debug\Multi_File_Copy.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\bin\Debug\Multi_File_Copy.pdb
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy_pattern.csproj.AssemblyReference.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\MainWindow.g.cs
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\App.g.cs
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy_MarkupCompile.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy_MarkupCompile.lref
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\MainWindow.baml
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy.g.resources
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy.Properties.Resources.resources
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy_pattern.csproj.GenerateResource.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy_pattern.csproj.CoreCompileInputs.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\12. System Programming\04 Threads & Async\Multithreading_examples\Multi_File_Copy\obj\Debug\Multi_File_Copy.pdb
